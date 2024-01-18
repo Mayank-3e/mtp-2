@@ -12,6 +12,8 @@ seaborn = "*"
 scikit-learn = "*"
 scipy = "*"
 openpyxl = "*"
+xgboost = "*"
+tensorflow = "*"
 
 [dev-packages]
 
